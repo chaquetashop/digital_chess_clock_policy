@@ -46,7 +46,7 @@ By using **Digital Chess Clock**, you agree to this privacy policy. If you do no
 
 ## Contact Us  
 If you have any questions, concerns, or suggestions regarding this privacy policy or the app, feel free to reach out to us:  
-- **Email**: [your-email@example.com]
+- **Email**: [firman.developers@gmail.com]
 
 ---
 
